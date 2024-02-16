@@ -1,0 +1,30 @@
+body{
+    background-color: azure;
+
+}
+#container{
+    border: 1px solid black;
+    text-align: center;
+
+ padding: 20px;
+width: 400px;
+height: auto;
+margin-left: 400px;
+margin-top: 200px;
+}
+h2{
+    font-family: Arial, sans-serif;
+    color:brown;
+}
+button{
+ margin: 10px;
+ background-color: rgb(174, 198, 198);
+ cursor: pointer;
+border-radius: 10px;
+width: 20%;
+height: 10%;
+}
+button:hover{
+   background-color: darkblue;
+   color: white;
+}
